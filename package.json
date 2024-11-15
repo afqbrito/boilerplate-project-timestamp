@@ -4,7 +4,7 @@
   "description": "An FCC Backend Challenge",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node --watch index.js"
   },
   "dependencies": {
     "express": "^4.12.4",
@@ -18,7 +18,7 @@
     "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
   },
   "homepage": "https://github.com/freeCodeCamp/boilerplate-project-timestamp#readme",
-  "author": "freeCodeCamp <team@freecodecamp.org>",
+  "author": "Adriano Fabio Brito <adriano.fabio@gmail.com>",
   "keywords": [
     "node",
     "express",
